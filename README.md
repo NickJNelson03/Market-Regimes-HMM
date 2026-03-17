@@ -10,4 +10,3 @@ https://medium.com/data-science/hidden-markov-models-explained-with-a-real-life-
 
   - Youtube: 
   https://www.youtube.com/watch?v=9yl4XGp5OEg
-nf
