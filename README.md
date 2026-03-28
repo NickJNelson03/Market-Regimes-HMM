@@ -13,3 +13,5 @@ https://medium.com/data-science/hidden-markov-models-explained-with-a-real-life-
   https://www.youtube.com/watch?v=9yl4XGp5OEg
 
   https://www.youtube.com/watch?v=7nvjrgqKjJE&t=1472s
+
+  Additional sources:
